@@ -1,8 +1,8 @@
-admin1
-11111
+admin
+12345678
 
-iqbal
-1234
+peminjam
+12345678
 
 petugas
-22222
+12345678
